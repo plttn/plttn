@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Editor Setup 2020](https://plttn.me/posts/editor-setup-2020/)
+- [Switching to Hugo](https://plttn.me/posts/switching-to-hugo/)
+- [pa11y – a Work in Progress Atom Theme](https://plttn.me/posts/2017-04-20-pa11y-a-wip-theme/)
+- [Thoughts on Tay – a Postmortem](https://plttn.me/posts/2016-03-25-thoughts-on-tay-a-postmortem/)
+- [LSI on Travis](https://plttn.me/posts/2016-02-24-lsi-on-travis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
