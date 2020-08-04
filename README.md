@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
+---
+
 <img align="left" alt="plttn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=plttn&show_icons=true&hide_border=true" />
