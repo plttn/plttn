@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I occasionally do cool stuff, I even more occasionally write blog posts.
+
 <!--
 **plttn/plttn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
