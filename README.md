@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ### Latest StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Comment by plttn on how do i execute a php script on my github site?](https://stackoverflow.com/questions/50382651/how-do-i-execute-a-php-script-on-my-github-site)
-- [Comment by plttn on how do i execute a php script on my github site?](https://stackoverflow.com/questions/50382651/how-do-i-execute-a-php-script-on-my-github-site)
 - [Answer by plttn for single backtick code not shown in jekyll github blog](https://stackoverflow.com/questions/43373193/single-backtick-code-not-shown-in-jekyll-github-blog/43446085#43446085)
 - [Answer by plttn for Asterisks in git log oneline](https://stackoverflow.com/questions/43445705/asterisks-in-git-log-oneline/43445921#43445921)
 <!-- STACKOVERFLOW:END -->
