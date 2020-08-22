@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#290](https://github.com//apple/password-manager-resources/pull/290) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
+2. 🗣 Commented on [#179](https://github.com//apple/password-manager-resources/issues/179) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
+3. ❗️ Closed issue [#427](https://github.com//johno/pixyll/issues/427) in [johno/pixyll](https://github.com//johno/pixyll)
+4. 🗣 Commented on [#427](https://github.com//johno/pixyll/issues/427) in [johno/pixyll](https://github.com//johno/pixyll)
+5. ❌ Closed PR [#426](https://github.com//johno/pixyll/pull/426) in [johno/pixyll](https://github.com//johno/pixyll)
+<!--END_SECTION:activity-->
 
 ### Latest StackOverflow Activity
 
