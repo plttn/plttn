@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
-2. 💪 Opened PR [#290](https://github.com//apple/password-manager-resources/pull/290) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
-3. 🗣 Commented on [#179](https://github.com//apple/password-manager-resources/issues/179) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
-4. ❗️ Closed issue [#427](https://github.com//johno/pixyll/issues/427) in [johno/pixyll](https://github.com//johno/pixyll)
-5. 🗣 Commented on [#427](https://github.com//johno/pixyll/issues/427) in [johno/pixyll](https://github.com//johno/pixyll)
+1. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+2. ❗️ Opened issue [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+3. 💪 Opened PR [#290](https://github.com//apple/password-manager-resources/pull/290) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
+4. 🗣 Commented on [#179](https://github.com//apple/password-manager-resources/issues/179) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
+5. ❗️ Closed issue [#427](https://github.com//johno/pixyll/issues/427) in [johno/pixyll](https://github.com//johno/pixyll)
 <!--END_SECTION:activity-->
 
 ### Latest StackOverflow Activity
