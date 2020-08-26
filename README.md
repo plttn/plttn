@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
 2. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
-3. ❗️ Opened issue [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
-4. 💪 Opened PR [#290](https://github.com//apple/password-manager-resources/pull/290) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
-5. 🗣 Commented on [#179](https://github.com//apple/password-manager-resources/issues/179) in [apple/password-manager-resources](https://github.com//apple/password-manager-resources)
+3. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+4. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+5. ❗️ Opened issue [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
 <!--END_SECTION:activity-->
 
 ### Latest StackOverflow Activity
