@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
-2. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
-3. ❗️ Opened issue [#144](https://github.com//wslutilities/wslu/issues/144) in [wslutilities/wslu](https://github.com//wslutilities/wslu)
-4. ❗️ Closed issue [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
-5. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+1. ❌ Closed PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
+2. 💪 Opened PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
+3. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+4. ❗️ Opened issue [#144](https://github.com//wslutilities/wslu/issues/144) in [wslutilities/wslu](https://github.com//wslutilities/wslu)
+5. ❗️ Closed issue [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
 <!--END_SECTION:activity-->
 
 ### Latest StackOverflow Activity
