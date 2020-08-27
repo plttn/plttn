@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
-2. ❗️ Opened issue [#631](https://github.com//WhitewaterFoundry/Pengwin/issues/631) in [WhitewaterFoundry/Pengwin](https://github.com//WhitewaterFoundry/Pengwin)
-3. ❌ Closed PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
-4. 💪 Opened PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
-5. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+2. 🗣 Commented on [#12](https://github.com//BlackReloaded/wsl2-ssh-pageant/issues/12) in [BlackReloaded/wsl2-ssh-pageant](https://github.com//BlackReloaded/wsl2-ssh-pageant)
+3. ❗️ Opened issue [#631](https://github.com//WhitewaterFoundry/Pengwin/issues/631) in [WhitewaterFoundry/Pengwin](https://github.com//WhitewaterFoundry/Pengwin)
+4. ❌ Closed PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
+5. 💪 Opened PR [#4](https://github.com//plttn/minimo/pull/4) in [plttn/minimo](https://github.com//plttn/minimo)
 <!--END_SECTION:activity-->
 
 ### Latest StackOverflow Activity
