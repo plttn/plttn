@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I occasionally do cool stuff, I even more occasionally write blog posts.
+I occasionally do cool stuff, I even more occasionally write blog posts. 
